@@ -25,7 +25,7 @@ um Allure (benötigt für Reports) herunterzuladen
 ```npm test```
 um die Tests zu starten
 
-Um nur bestimmte Specs zu starten, muss **specs** (Z. 9) in **protractor.conf.js** angepasst werden
+Um die Spec, die gestartet wird, zu ändern, muss **specs** (Z. 9) in **protractor.conf.js** angepasst werden
 
 ## Reporting
 

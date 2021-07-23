@@ -6,7 +6,8 @@ exports.config = {
     ],
     framework: 'jasmine',
     directConnect: true,
-    specs: ["specs/login.spec.ts", "specs/physician-search.spec.ts"],
+    specs: ["specs/login.spec.ts"],
+    // specs: ["specs/physician-search.spec.ts"],
     SELENIUM_PROMISE_MANAGER: false,
     params: {
         env: "https://demo.clickdoc.de/"
