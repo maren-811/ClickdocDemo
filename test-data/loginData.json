@@ -1,0 +1,14 @@
+{
+  "correctLogin": {
+    "email": "dirk.nonn@cgm.com#1111",
+    "password": "recruitingTest1!"
+  },
+  "wrongPassword": {
+    "email": "dirk.nonn@cgm.com#1111",
+    "password": "Passwort123?"
+  },
+  "wrongEmail": {
+    "email": "testmail.com",
+    "password": "Passwort123?"
+  }
+}
